@@ -1,0 +1,7 @@
+                                         # Weather Journal App 
+
+- I set up a project environment installing Node and Express.  
++ I got the Weather API from OpenWeatherMap website. 
++ And I tried to get the output of Date, and temperture, and user's response on the website by pushing the generate button.  
++ And I declared projectData  to act as a endpoint(storage). 
++ Then, I made an asynchronous function to fetchg the data from the app endpoint.
